@@ -11,26 +11,30 @@
 </div>
 
 ```text
-     ...:::.     ..::-
-  .   ...::.        .:~         dario@tokic
-..       ..       ..:-~--       -------------------------------------------
-.         .....:::--:-:::-:      OS ........ macOS · Linux
-         .--~====+*+=~:.:::      Host ...... FlyRank AI
-.       .-=+****#%%%%%*. .:      Role ...... Senior AI Engineer
-.   .----~=****#%%%%%%#:  ::     Uptime .... ~3 years in production
-     --:::::~**=-~+##%%-. ..     Shell ..... bun · zsh
-     ~-::::.:*%*~=*#%@%~-:..     Editor .... VS Code · Neovim
-  . .~~-:::-~*%@%%%@@@@*+*:
-   ..-~~--:--**%%%@@@@%*#*       Languages . JavaScript, TypeScript, Node.js
-    -:~~~-::-=*#%%@@@@%*#        Frontend .. React, Next.js, Vue
-      -~-:..-~=+=+@@@@#::        Data ...... Supabase, REST, SQL
-       ~--:-~=*#%%%%%%#.         Spoken .... English, Bosnian
-       ~----=*#%@%%##%#
-       ~-:::-~=+**##%%%          Focus ..... Automation · AI · Content infra
-       ~-::::-~=*#%%@@%*         AI ........ Claude, MCP, RAG, agents
-    -::---~~~~+*#%%%@@%@%*       Music ..... Bass in Lepra (metal)
-     :::--~+*++*##%%@%#          Art ....... Graffiti · Illustration
-       ::--~=++++**
+      ::::  :.. ...:-
+  ::....::::       ..::-
+::.      ...         .:~~
+..               ..:::-~-:-               dario@tokic
+.         ...::-:--~---:::-:              -------------------------------------------
+         .:~==++++***+=-...:-              OS ........ macOS · Linux
+.    ....:~+****#%@%%%%#:  :-              Host ...... FlyRank AI
+     -~---~+****####%%%%-  .:              Role ...... Senior AI Engineer
+ .   .~-.::::~#*~--+*#%%~. ..:             Uptime .... ~3 years in production
+     :~-::-..-#%*==*#%@@=~-..              Shell ..... bun · zsh
+  .  :~--:::-~#%@%%%@@@@*+*-:              Editor .... VS Code · Neovim
+    ..~~~--:-~**%%@@@@@%*##
+    .--~~--::-=*#%%@@@@%*#=                Languages . JavaScript, TypeScript, Node.js
+     ..~~-..:-~===*@@@@%-::                Frontend .. React, Next.js, Vue
+     ::-~-::-~=*#%#%@@%%.:-                Data ...... Supabase, REST, SQL
+     ::-----~+*%%@%%%#%%---                Spoken .... English, Bosnian
+     ::------~=+****#%%%---
+     ::---::::--=+##%%@%+--                Focus ..... Automation · AI · Content infra
+     -.-~-----~=*#%%%@@%@%+*               AI ........ Claude, MCP, RAG, agents
+    :::::-~=++++*#%%%@@%%##%               Music ..... Bass in Lepra (metal)
+    -:::::-~+******####*###                Art ....... Graffiti · Illustration
+     +==~~--~===+++**######
+     +++++*********########
+     +++++********#########
 ```
 
 ### 👋 About
